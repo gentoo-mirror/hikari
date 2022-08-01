@@ -3,6 +3,5 @@ app-text/zola 0.13.0: a fast static site generator in a single binary with every
 media-video/ccextractor-gui 0.5.2: Extract closed captioning subtitles from video to SRT
 net-im/discord 0.0.131-r1: All-in-one voice and text chat for gamers
 net-im/fractal 4.2.2 4.4.1_beta 9999: Matrix messaging app for GNOME written in Rust
-net-libs/restbed 9999: For applications that require seamless and secure communication over HTTP
 net-vpn/protonvpn-cli 2.2.11-r2: A VPN command-line tool from protonvpn - python rewrite
 x11-misc/gummy 0.1: Adaptive screen brightness/temperature
